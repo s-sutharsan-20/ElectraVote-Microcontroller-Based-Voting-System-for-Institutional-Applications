@@ -1,0 +1,2 @@
+# ElectraVote-Microcontroller-Based-Voting-System-for-Institutional-Applications
+ElectraVote is a microcontroller-based electronic voting system designed for use in schools, colleges, and other institutional environments. Built around the PIC16F877A microcontroller, it aims to deliver a secure, reliable, and user-friendly voting experience while minimizing human intervention and ensuring accurate result display in real time.
